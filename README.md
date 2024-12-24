@@ -19,14 +19,12 @@ My ability to swiftly adapt and learn empowers me to align with fast-evolving re
 
 #### About Me
 
-> - 🌍 Based in Toronto, Canada.
-> - 🖥️ Explore my portfolio at [https://www.ricardogesteves.com](https://www.ricardogesteves.com).
-> - ✉️ Contact me at [X(Twitter)](https://twitter.com/RicardoGEsteves) or [DEV](https://dev.to/ricardogesteves).
+> - 🌍 Based in San Francisco, United States.
 > - 🚀 Currently engaged in [Cooking something special 🔥](https://#), enhancing user experiences, and utilizing a versatile tech stack adaptable to project requirements.
 > - 🧠 Constantly learning and exploring new technologies to advance my skills.
 > - 🤝 Open to collaborating on open-source projects and innovative applications.
 > - ⚡ Check my repositories to gain insights into my journey and tech stack.
-> - 💬 Ask me about **JavaScript, TypeScript, React** ecosystem, and building scalable web applications.
+> - 💬 Ask me about **JavaScript, TypeScript, React, AI, LangChain, OpenAI** ecosystem, and building scalable web applications and AI ChatBot.
 
 ##
 
