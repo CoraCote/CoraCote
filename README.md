@@ -1,7 +1,7 @@
 <!-- <div style="background-color:#181824"> -->
 
 <p align="center">
-  <img src="header-image.png" alt="Header image">
+  <img src="header-image.jfif" alt="Header image">
 </p>
 <!-- </div> -->
 
