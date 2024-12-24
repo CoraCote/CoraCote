@@ -76,23 +76,6 @@ My ability to swiftly adapt and learn empowers me to align with fast-evolving re
 
 ##
 
-#### Projects & Contributions
-
-> **Latest Projects**
->
-> - [React with Vite on steroids](https://github.com/RicardoGEsteves/react-with-vite-on-steroids) - A powerful and efficient starter template for building React applications with Vite, TypeScript, TailwindCSS, ESLint, Prettier, Vitest, Testing Library, Playwright, Husky, and more.
-> - [AuthV5 Toolkit](https://github.com/RicardoGEsteves/AuthV5-Toolkit) - Auth.js V5 Toolkit is a specialized toolkit designed to streamline the process of implementing sophisticated and customizable authentication mechanisms within Next.js applications. It provides a solid foundation and structure to integrate Auth.js V5 seamlessly. It's designed to provide a robust and scalable solution for managing user authentication in web applications.
-> - [Storyscape](https://github.com/RicardoGEsteves/Storyscape) - Storyscape leverages cutting-edge technologies to provide users with an immersive social media experience. By utilizing TypeScript, React, Next.js, Tailwind CSS, and other advanced tools, Storyscape aims to redefine user interaction with content, fostering meaningful connections within a vibrant online community.
-> - [SpreadIt](https://github.com/RicardoGEsteves/SpreadIt) - SpreadIt is a dynamic social news aggregation platform powered by robust backend technologies and a user-friendly interface. It employs modern web development frameworks and scalable architecture to enable seamless content submission, sharing, and voting across various formats (articles, images, videos).
-> - [S3MER](https://github.com/RicardoGEsteves/s3mer) - S3MER is a full-stack dynamic live streaming platform, with customizable features, multi-platform integration, and a developer-friendly API.
-> - [Intertwine](https://github.com/RicardoGEsteves/Intertwine) - It's a instant messaging and VoIP social platform which allows communication through voice calls, video calls, text messaging, and media and files. Communication can be private or take place in virtual communities called "servers".
-> - [SprintEase](https://github.com/RicardoGEsteves/SprintEase) - SprintEase is a powerful and flexible work management tool designed for agile development in a B2B SaaS (Business to Business Software as a Service) environment. SprintEase empowers teams with features tailored for agile methodologies, making collaboration and project management seamless built on a robust technology stack.
-> - [Omniscient](https://github.com/RicardoGEsteves/omniscient) - Cutting-edge Full-stack AI Platform delivered as a SaaS (Software as a Service). Built on a robust technology stack, integrated with powerful APIs such as OpenAI and Replicate, offers a seamless experience for code generation, conversation simulation, image creation, music composition, and video generation.
-> - [Digital Marketplace](https://github.com/RicardoGEsteves/next-digital-marketplace) - Digital Marketplace is a sophisticated full-stack e-commerce platform designed to deliver a seamless shopping experience for users. It incorporates cutting-edge technologies and frameworks to ensure robustness, efficiency, and scalability.
-> - [Bookings Manager](https://github.com/RicardoGEsteves/booking-manager) - Bookings Manager is a comprehensive React application designed for internal booking management, featuring an intuitive dashboard and a plethora of functionalities. It's optimized using composition, context, and the compound components pattern to deliver an efficient and scalable solution.
-
-##
-
 #### 🚀 How I Work
 
 > Dedicated to **write clean, efficient code** and leveraging the latest technologies to create seamless solutions. I value collaboration, open-source contributions, and continuous learning.
