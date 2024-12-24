@@ -99,26 +99,19 @@ My ability to swiftly adapt and learn empowers me to align with fast-evolving re
 
 ##
 
-#### Socials
-
- <p align="left"> <a href="https://www.github.com/RicardoGEsteves" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a><a href="https://www.x.com/RicardoGEsteves" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.dev.to/ricardogesteves" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ricardogesteves" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
- <p align="left"><a href="https://www.github.com/RicardoGEsteves" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/RicardoGEsteves?logo=github&style=for-the-badge&color=3382ed&labelColor=181824" /></a></p>
-
-##
-
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RicardoGEsteves"><img src="https://github-readme-stats.vercel.app/api?username=RicardoGEsteves&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true&count_private=true" alt="RicardoGEsteves's GitHub stats" /></a>
+<a href="http://www.github.com/CoraCote"><img src="https://github-readme-stats.vercel.app/api?username=CoraCote&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true&count_private=true" alt="RicardoGEsteves's GitHub stats" /></a>
 
-<a href="http://www.github.com/RicardoGEsteves"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoGEsteves&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak count" /></a>
+<a href="http://www.github.com/RicardoGEsteves"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CoraCote&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak count" /></a>
 
-<a href="https://github.com/RicardoGEsteves" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoGEsteves&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
+<a href="https://github.com/CoraCote" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoraCote&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 
 ##
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/AuthV5-Toolkit" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=AuthV5-Toolkit&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/SprintEase" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=SprintEase&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br><br><br><br><br>
+<div width="100%" align="center"><a href="https://github.com/CoraCote/AuthV5-Toolkit" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=AuthV5-Toolkit&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/SprintEase" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=SprintEase&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br><br><br><br><br>
 <br>
 <br>
 <br>
