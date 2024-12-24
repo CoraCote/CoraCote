@@ -40,8 +40,6 @@ My ability to swiftly adapt and learn empowers me to align with fast-evolving re
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manekinekko/manekinekko/output/github-snake.svg">
 </picture>
 
-<a href="http://www.github.com/CoraCote"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CoraCote&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak count" /></a>
-
 <a href="https://github.com/RicardoGEsteves" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoGEsteves&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 
 ##
