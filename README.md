@@ -5,7 +5,7 @@
 </p>
 <!-- </div> -->
 
-# Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Ricardo Esteves
+# Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Cora Cote
 
 ## Software Engineer | Full Stack Developer
 
@@ -15,7 +15,7 @@ I am a Portugal-based Software Engineer specializing in end-to-end software deve
 
 #### About Me
 
-> - 🌍 Based in Lisbon, Portugal.
+> - 🌍 Based in Toronto, Canada.
 > - 🖥️ Explore my portfolio at [https://www.ricardogesteves.com](https://www.ricardogesteves.com).
 > - ✉️ Contact me at [X(Twitter)](https://twitter.com/RicardoGEsteves) or [DEV](https://dev.to/ricardogesteves).
 > - 🚀 Currently engaged in [Cooking something special 🔥](https://#), enhancing user experiences, and utilizing a versatile tech stack adaptable to project requirements.
