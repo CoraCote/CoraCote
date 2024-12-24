@@ -107,32 +107,6 @@ My ability to swiftly adapt and learn empowers me to align with fast-evolving re
 
 ##
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/CoraCote/AuthV5-Toolkit" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=AuthV5-Toolkit&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/SprintEase" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=SprintEase&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br><br><br><br><br>
-<br>
-<br>
-<br>
-<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/next-digital-marketplace" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=next-digital-marketplace&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/omniscient" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=omniscient&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/Intertwine" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=Intertwine&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/s3mer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=s3mer&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br><br><br><br><br>
-<br>
-<br>
-<br>
-<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/SpreadIt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=SpreadIt&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/Storyscape" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=Storyscape&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br>
-<br>
-<br>
-<br>
-<br>
-
-##
-
 #### 🌟 Let's Collaborate!
 
 > Actively seeking exciting opportunities to contribute to meaningful projects and collaborate with passionate developers. Feel free to explore my work here on GitHub, and let's connect on [LinkedIn](https://www.linkedin.com/in/ricardogesteves/) or [X(Twitter)](https://twitter.com/RicardoGEsteves) to discuss potential collaborations!
