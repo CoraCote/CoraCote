@@ -109,9 +109,7 @@ My ability to swiftly adapt and learn empowers me to align with fast-evolving re
 
 #### 🌟 Let's Collaborate!
 
-> Actively seeking exciting opportunities to contribute to meaningful projects and collaborate with passionate developers. Feel free to explore my work here on GitHub, and let's connect on [LinkedIn](https://www.linkedin.com/in/ricardogesteves/) or [X(Twitter)](https://twitter.com/RicardoGEsteves) to discuss potential collaborations!
-> Also check my profile and contributions on [DEV](https://dev.to/ricardogesteves) and my [StackShare](https://stackshare.io/RicardoGEsteves/latest).
-> Get to know me and explore my work at [https://www.ricardogesteves.com](https://www.ricardogesteves.com)
+> Actively seeking exciting opportunities to contribute to meaningful projects and collaborate with passionate developers. Feel free to explore my work here on GitHub.
 >
 > Looking forward to making impactful contributions together! 😊✨
 
