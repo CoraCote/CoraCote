@@ -60,11 +60,11 @@ My ability to swiftly adapt and learn empowers me to align with fast-evolving re
 <p align="center">
   <a href="mailto:cora.cote0903@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/m45ORQzCHjIm" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  <a href="https://join.skype.com/invite/aUwZi4XbnCQW" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/justicegod773" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://discordapp.com/users/674664447012241418" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/discord.png"  width="50" /></a>
+  <a href="https://discord.com/channels/@me/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/discord.png"  width="50" /></a>
 
 ##
 
