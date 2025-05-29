@@ -62,6 +62,7 @@ My ability to swiftly adapt and learn empowers me to align with fast-evolving re
   <a href="https://t.me/justicegod773" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png" width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://discord.com/channels/@me/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/discord.png" width="50" /></a>
+  &nbsp;&nbsp;
   <a href="https://teams.live.com/v2" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/microsoft-teams-2019.png" width="50" /></a>
 </p>
 
