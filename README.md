@@ -19,7 +19,6 @@ My ability to swiftly adapt and learn empowers me to align with fast-evolving re
 
 #### About Me
 
-> - 🌍 Based in San Francisco, United States.
 > - 🚀 Currently engaged in [Cooking something special 🔥](https://#), enhancing user experiences, and utilizing a versatile tech stack adaptable to project requirements.
 > - 🧠 Constantly learning and exploring new technologies to advance my skills.
 > - 🤝 Open to collaborating on open-source projects and innovative applications.
@@ -59,8 +58,6 @@ My ability to swiftly adapt and learn empowers me to align with fast-evolving re
 
 <p align="center">
   <a href="mailto:cora.cote0903@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/aUwZi4XbnCQW" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/justicegod773" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
