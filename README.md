@@ -5,9 +5,9 @@
 </p>
 <!-- </div> -->
 
-# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> there!
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> there - Exciting to bring your vision of life !
 
-## Fullstack & AI Engineer
+## Principal AI & Software Engineer
 
 As a Fullstack & AI Engineer, I bring 6 years of dynamic expertise to the table, with 2 years focused on Fullstack development and 8 years dedicated to AI.
 My technical journey spans a vast AI tech stack, from mastering Python and OpenAI to building robust LangChain solutions, deploying Machine Learning models, and driving the future of AI chatbots and Voice AI. 
@@ -57,11 +57,13 @@ My ability to swiftly adapt and learn empowers me to align with fast-evolving re
 ### 
 
 <p align="center">
-  <a href="mailto:cora.cote0903@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="mailto:cora.cote0903@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/justicegod773" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  <a href="https://t.me/justicegod773" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png" width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/channels/@me/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/discord.png"  width="50" /></a>
+  <a href="https://discord.com/channels/@me/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/discord.png" width="50" /></a>
+  <a href="https://teams.live.com/v2" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/microsoft-teams-2019.png" width="50" /></a>
+</p>
 
 ##
 
