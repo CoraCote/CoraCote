@@ -9,11 +9,15 @@
 
 ## Principal AI & Software Engineer
 
-As a Fullstack & AI Engineer, I bring 7 years of dynamic expertise to the table, with 5 years focused on Fullstack development and 2 years dedicated to AI.
-My technical journey spans a vast AI tech stack, from mastering Python and OpenAI to building robust LangChain solutions, deploying Machine Learning models, and driving the future of AI chatbots and Voice AI. 
-With a sharp eye for detail and a relentless drive for excellence, I thrive in transforming complex challenges into scalable, innovative solutions. 
-As a project leader, I have honed my skills in project and product management, successfully leading teams to develop, implement, and support cutting-edge infrastructures for rapidly growing startups. 
-My ability to swiftly adapt and learn empowers me to align with fast-evolving requirements and ensure tangible, impactful outcomes.
+As a Fullstack & AI Engineer with 7 years of experience, I specialize in delivering high-performance, scalable web applications with a deep focus on both backend and frontend architecture. With 5 years in Fullstack development and 2 years in AI, I bring strong expertise in Next.js, Payload CMS, and complex data manipulation workflows—including Excel spreadsheet import/export functionality and seamless API integrations.
+
+My tech stack includes JavaScript/TypeScript, React, Next.js, Node.js, and headless CMS platforms like Payload, along with backend services built using Python, FastAPI, and MongoDB/PostgreSQL. I’ve successfully integrated Excel I/O into enterprise-grade platforms using libraries such as xlsx, exceljs, and pandas, ensuring data integrity, speed, and user-friendly performance.
+
+In the AI space, I have led initiatives involving LangChain, OpenAI, LLMs, and real-time Voice AI systems—empowering automation, smart assistants, and predictive analytics in production environments. My approach blends software engineering with innovative AI, enabling rapid prototyping and reliable deployment of intelligent features.
+
+I’ve also served as a project and product lead, driving cross-functional teams and delivering infrastructure for rapidly scaling startups. I’m known for my sharp attention to detail, fast learning curve, and ability to translate complex requirements into elegant solutions that users love.
+
+Whether it’s building robust data pipelines, enhancing UX with smart frontend logic, or leading full-lifecycle feature development-I bring a passion for clean code, high standards, and impactful results.
 
 ##
 
