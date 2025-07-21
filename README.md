@@ -9,7 +9,7 @@
 
 ## Principal AI & Software Engineer
 
-As a Fullstack & AI Engineer, I bring 6 years of dynamic expertise to the table, with 5 years focused on Fullstack development and 2 years dedicated to AI.
+As a Fullstack & AI Engineer, I bring 7 years of dynamic expertise to the table, with 5 years focused on Fullstack development and 2 years dedicated to AI.
 My technical journey spans a vast AI tech stack, from mastering Python and OpenAI to building robust LangChain solutions, deploying Machine Learning models, and driving the future of AI chatbots and Voice AI. 
 With a sharp eye for detail and a relentless drive for excellence, I thrive in transforming complex challenges into scalable, innovative solutions. 
 As a project leader, I have honed my skills in project and product management, successfully leading teams to develop, implement, and support cutting-edge infrastructures for rapidly growing startups. 
