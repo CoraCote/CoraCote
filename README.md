@@ -7,27 +7,36 @@
 
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> Exciting to bring your vision of life !
 
-🎶 From idea → to interface → to intelligence…
-I’m a Principal AI & Software Engineer with 7 years of experience crafting products that feel fast, look clean, and scale with confidence. I build high-performance web platforms, mobile apps, and AI-powered features—bridging product vision with production-ready engineering. 🚀
+### 🎧 Build. Scale. Spark
 
-💻 Fullstack (5y) 
-    I specialize in Next.js, React, Node.js, and headless architecture (notably Payload CMS), designing systems that are elegant on the surface and solid underneath.
-📱 Mobile Development 
-    I also build mobile experiences (cross-platform + modern stacks), focusing on smooth UX, real-time features, and app performance that feels like butter. ✨
-🧠 AI (2y) 
-    I lead applied AI initiatives using LLMs, OpenAI, LangChain, and real-time Voice AI, turning workflows into assistants, automation, and predictive systems that actually ship. 🤖💬
+I’m a Principal AI & Software Engineer with 7 years of experience turning ideas into products people actually love using - fast, resilient, and beautifully engineered. ✨
 
-🎼 Data in, clarity out.
-  I’m especially strong in complex data manipulation workflows, including enterprise-grade Excel import/export and spreadsheet pipelines using tools like xlsx, exceljs, and pandas—built for speed, integrity, and user-friendly handling. 📊✅
+I work across Web + Mobile + AI, blending clean architecture with practical delivery:
 
-⚙️ Backend-wise, 
-    I deliver reliable services with Python, FastAPI, and databases like MongoDB and PostgreSQL, plus clean APIs and integrations that keep products connected and stable.
+### ⚡ Fullstack (5y)
+- Next.js / React / TypeScript / Node.js
+- Headless platforms like Payload CMS
+- Systems designed for performance, maintainability, and scale
 
-🌙 I’ve also served as a project + product lead, guiding teams, shaping architecture, and delivering infrastructure for scaling startups. I’m known for sharp attention to detail, a fast learning curve, and a mindset that blends clean code with real-world impact.
+### 📱 Mobile App Development
+- Cross-platform mobile experiences with a focus on smooth UX, strong performance, and production-ready releases
+- Real-time features, clean state management, and UI that feels intentional, not accidental ✨
 
-🎵 Build it clean. Ship it strong. Make it matter. ❤️
-If you need someone who can design systems, craft delightful UX, and bring AI into production with confidence—I’m here. ✨
+### 🧠 AI Engineering (2y)
+- LLMs / OpenAI / LangChain
+- Real-time Voice AI systems and intelligent automation
+- From prototype → to production, with reliability as the default 🤖✅
 
+🎼 When data gets messy, I make it sing.
+I build robust Excel / spreadsheet workflows (import/export, validation, transformation) using xlsx, exceljs, and pandas, optimized for speed, data integrity, and user-friendly experiences. 📊🎯
+
+On the backend, I ship dependable services with Python, FastAPI, MongoDB, and PostgreSQL, plus seamless API integrations that keep platforms stable and scalable. ⚙️
+
+🌙 I’ve also led projects and products - aligning engineers, product, and stakeholders to deliver high-impact features under real startup pressure. I’m known for high standards, sharp detail, and execution that doesn’t drift.
+
+🎵 Clean code. Clear systems. Real impact. ❤️
+
+If you’re building something ambitious, web, mobile, or AI, I bring the craft to make it strong, elegant, and ready to scale. 🚀
 ##
 
 #### About Me
